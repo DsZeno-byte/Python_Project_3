@@ -1,5 +1,6 @@
 # Python_Project_3
 # Simple Calculator with Tkinter
+![alt text](image.png)
 
 This project is a basic calculator built using Python's `tkinter` library. It provides a graphical user interface (GUI) for performing basic arithmetic operations like addition, subtraction, multiplication, and division.
 
